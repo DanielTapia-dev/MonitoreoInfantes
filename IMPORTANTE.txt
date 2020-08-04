@@ -1,0 +1,4 @@
+keytool -list -v -keystore C:\Users\Alexis\AppData\Local\Xamarin\Key\debug.keystore
+Contraseña: android
+
+SHA1: 1A:16:75:66:5C:03:87:C3:83:70:29:3D:57:97:CB:59:A9:E5:2A:1A
